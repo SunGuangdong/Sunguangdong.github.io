@@ -1,9 +1,9 @@
 # Site settings
-title: 孙广东
-SEOTitle: 你的博客 | 孙广东
+title: 念念不忘，必有回响 _孙广东
+SEOTitle: 心有所属 | 孙广东            # 浏览器标签上的显示
 header-img: img/home-bg.jpg
 email: sunguangdong_code@outlook.com
-description: ""
+description: "坚持不懈，有梦想"
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,10 +11,10 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 
 # SNS settings
-RSS: false
-weibo_username:     sunguangdong
-zhihu_username:     sunguangdong
-github_username:    sunguangdong
+RSS: true
+weibo_username:  sunguangdong
+zhihu_username:  sunguangdong
+github_username:  sunguangdong
 twitter_username:  sunguangdong
 facebook_username:  sunguangdong
 
@@ -43,7 +43,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: sunguangdong
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -61,7 +61,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "不被现实左右，走自己的路让别人羡慕去吧。写出自己的人生"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -75,19 +75,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "CSDN 主页",
+        href: "http://blog.csdn.net/u010019717"
     },{
-        title: "Foo",
-        href: "#"
+        title: "泰课社区",
+        href: "http://www.taidous.com/bbs/type-211-418-1.html"
     },{
-        title: "Bar",
-        href: "#"
+        title: "游戏蛮牛",
+        href: "http://www.manew.com/forum-47-221-1.html"
     },{
-        title: "Example Friends",
-        href: "#"
+        title: "图灵社区",
+        href: "http://www.ituring.com.cn/"
     },{
-        title: "It helps SEO",
-        href: "#"
+        title: "开源中国",
+        href: "http://www.oschina.net/"
     }
 ]

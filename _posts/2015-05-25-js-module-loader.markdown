@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Example Post with Code Highlight"
+title:      "测试代码高亮"
 subtitle:   "CommonJS，RequireJS，SeaJS 归纳笔记"
 date:       2015-05-25
-author:     "Hux"
+author:     "孙广东 翻译"
 header-img: "img/post-bg-js-module.jpg"
 tags:
     - 前端开发

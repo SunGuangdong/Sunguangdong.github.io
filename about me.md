@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "关于我"
+description: "Hey, my name is sgd."
 subheadline: "自述"
 permalink: /about me/
 ---

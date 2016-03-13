@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 游戏人生
 permalink: /about/
 ---
 

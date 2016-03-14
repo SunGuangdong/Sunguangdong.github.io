@@ -11,9 +11,23 @@ header-img: "img/about-bg.jpg"
     <option value="1"> 英语 English </option>
 </select>
 
-<body>
+<!--<body>
     <embed src="sound/Victory.mp3" autostart="true" loop="true">
-</body>
+</body>-->
+
+<script type="text/javascript"> 
+    $(function(){ 
+    if($.browser.msie && $.browser.version=='8.0'){ 
+    //本来这里用的是<bgsound src="system.wav"/>,结果IE8不播放声音,于是换成了embed 
+    $('#newMessageDIV').html('<embed src="sound/Victory.mp3"/>'); 
+    }else{ 
+    // IE9+,Firefox,Chrome均支持<audio/> 
+    $('#newMessageDIV').html('<audio autoplay="autoplay"><source src="sound/Victory.mp3"' 
+    + 'type="audio/mp3"/><source src="sound/Victory.mp3" type="audio/mpeg"/></audio>'); 
+    } 
+    }); 
+ </script> 
+ <div id="newMessageDIV" ></div>
 
 <!-- Chinese Version -->
 <div class="zh">

@@ -1,9 +1,5 @@
-# HuxBlog Boilerplate
+# Sunguandong Blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+## 其他浏览 [CSDN博客专家](http://blog.csdn.net/u010019717)  & [Github](http://sunguangdong.com)
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+* 这个博客项目使用[模板：](https://github.com/Huxpro/huxpro.github.io)
